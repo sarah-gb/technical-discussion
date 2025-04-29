@@ -1,5 +1,5 @@
 # technical-discussion
-This is a demo repo for sharing ideas around communication (markup, snippets of code, documentation..)
+This is a demo repo for sharing ideas around technical communication (markup, snippets of code, documentation..)
 
 
 # this is a header line
