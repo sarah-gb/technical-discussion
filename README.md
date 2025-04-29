@@ -9,3 +9,7 @@ This is a demo repo for sharing ideas around communication (markup, snippets of 
 * one
 * two
 * three
+
+### Gist (to share code snippets)
+
+This is a good example of [my code](https://gist.github.com/sarah-gb/f367236fef5a4767fbd698fc6596e15d)
